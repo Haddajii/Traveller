@@ -1,0 +1,2 @@
+GameState:1
+FlagReached:0 pos_map1_affiche:141 pos_flag_affiche:0 IsSaveMenuClicked:0 pos_perso_ecran.x:594 pos_perso_ecran.y:409 vie:3 jump:0 JumpStart:494 CoinsSecured:0 ColidedWithCoin:0 ColidedWithCoin2:0 ColidedWithCoin3:0  MouvementTrajectory:1 EnnemiesKilled:0 HunterEnnemiState:1 MobEnnemiState:1
